@@ -1,0 +1,1 @@
+Insight 3: 'transaction_amount' column not found in the dataset.
